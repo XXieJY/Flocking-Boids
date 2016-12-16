@@ -20,3 +20,8 @@ To provide even more life like effects, further rules could be added, such as ob
 The flocking algorithm requires that each Boid only react to flock-mates within its local neighbourhood. This neighbourhood is defined by the Boid’s field of view relative to the rest of the flock. Flock-mates outside of this neighbourhood are ignored.
 
 This [YouTube video](https://youtu.be/HBvin3jXjsQ) shows an example of the behaviour you can expect to emerge.
+
+Follow me on [Twitter](https://twitter.com/Robosoup) for more updates like this.
+
+@robosoup
+www.robosoup.com
